@@ -1,0 +1,34 @@
+.test1{
+    margin: 0px;
+    padding: 0px;
+    width:160px;
+    position: absolute;
+    top: 60px;
+    left: -5px;
+    border-radius: 100%;
+    border-style: dashed;
+    display: flex;
+}
+.test2{
+    margin: 0px;
+    padding: 0px;
+    width:160px;
+    position: absolute;
+    top: 260px;
+    left: -5px;
+    border-radius: 100%;
+    border-style: dashed;
+    display: flex;
+}
+
+.test3{
+    margin: 0px;
+    padding: 0px;
+    width:160px;
+    position: absolute;
+    top: 450px;
+    left: -5px;
+    border-radius: 100%;
+    border-style: dashed;
+    display: flex;
+}
