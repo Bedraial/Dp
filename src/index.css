@@ -23,7 +23,7 @@
 body {
   margin: 0;
   padding:0;
-  height:100%;
+  height:0%;
   min-width: 320px;
   min-height: 100vh;
   background-image: url(./assets/imagenes/revisaroo.png);

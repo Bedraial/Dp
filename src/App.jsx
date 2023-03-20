@@ -4,14 +4,13 @@ import Imagen from './Reborn'
 import Boton from './Byf'
 import Term from './Terycon'
 import Mvo from './Limp'
-import Prueba from './test'
+import NavBar from './components/pruebabarra'
+
 
 function App() {
   return (
     <>
-    <Boton/>
-    <Imagen/>
-
+    <NavBar/>
     </>
   )
 }
