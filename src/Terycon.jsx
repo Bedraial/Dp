@@ -11,11 +11,6 @@ Teniendo en cuenta los principios de finalidad,libertad,calidad y transparecia p
 Los datos se utilizaran para bridar posibles hoteles de interes acomodandose a las características deseadas por el usuario y de manera puedan facilitar la comodiada y el comfor del usuario a la hora de realizar una cualquier tipo de peticion.<br/></h4>
 <a href="https://www.minambiente.gov.co/politica-de-proteccion-de-datos-personales/#:~:text=Ley%20de%20Protecci%C3%B3n%20de%20Datos,de%20naturaleza%20p%C3%BAblica%20o%20privada.">Mas detalles de esta misma ley</a>
 <h4>La agencia de viajes D'paseo.col se rigue tambien se rigue bajo la ley 621 de 2001 de manera extricta en contra de la explotacion,pornografia y turismo sexual</h4><a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18309">Mas detalles de esta misma ley</a></center><br/>
-
-<div className='coop'><section><center>
-©D'paseo.col
-</center></section>
-</div>
 </div>
 )
 }

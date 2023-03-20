@@ -1,7 +1,6 @@
 :root {
   margin: 0px;
   padding:0px;
-  height: 100%;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
@@ -28,6 +27,7 @@ body {
   min-height: 100vh;
   background-image: url(./assets/imagenes/revisaroo.png);
   background-repeat: no-repeat;
-  background-position:0px 60px;
+  background-position:3px 80px;
   background-size: 1360px;
+  
 }

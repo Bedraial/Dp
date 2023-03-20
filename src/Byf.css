@@ -5,7 +5,7 @@
     width: 300px;
     background-color:rgb(255, 86, 25);
     position: relative;
-    top:120px; left:950px;
+    top:-10px; left:1000px;
     border-style:solid solid;
     border-color: rgb(255, 255, 255);
     text-align: center;
@@ -14,5 +14,9 @@
     font-size: 16px;
     border-radius: 50px;
     overflow: hidden;
+
   }
+.proceso:hover{
+  color: rgb(29, 79, 124);
+}
   
